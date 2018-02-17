@@ -6,6 +6,6 @@ A little test to experiment with how project properties (passed to Gradle via `-
 
 ```
 ./gradlew
-./gradlew -Pgit_branch=master
-./gradlew -Pgit_branch=a_branch
+./gradlew -Pbranch=master
+./gradlew -Pbranch=a_branch
 ```

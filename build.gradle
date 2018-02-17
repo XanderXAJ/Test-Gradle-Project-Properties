@@ -1,1 +1,1 @@
-println Project.hasProperty('git_branch') ? git_branch : 'master'
+println Project.hasProperty('branch') ? branch : 'master'
