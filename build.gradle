@@ -1,1 +1,1 @@
-println Project.hasProperty('branch') ? branch : 'master'
+println hasProperty('branch') ? branch : 'master'
